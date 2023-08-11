@@ -2,6 +2,11 @@
 
 The Watermark App is a Python application that allows you to add watermarks to images. You can choose an image, specify a watermark text, and optionally add a logo to the image. The app provides a preview of the watermarked image and allows you to save the modified image with the watermark.
 ![watermarking_desktop_app.png](watermarking_desktop_app.png)
+1. Clone the repository:
+```bash
+git clone https://github.com/j-breedlove/watermarking_desktop_app.git
+cd watermarking_desktop_app
+```
 ## Features
 
 - Select an image: Browse and choose an image file from your local system.
